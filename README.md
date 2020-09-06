@@ -25,12 +25,9 @@
 <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payload All Things </a> </li>
 
 # PrivEsc
+<details>
 <b><summary> Web Siteleri</summary>
 <li> <a href="https://www.hackingarticles.in/category/privilege-escalation/">Privilege Escalation Archives - Hacking Articles </a> </li>
 <li> <a href="https://payatu.com/guide-linux-privilege-escalation">A guide to Linux Privilege Escalation </a> </li>
 <li> <a href="https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html">Privilege Escalation </a> </li>
-<li> <a href=""> </a> </li>
-<li> <a href=""> </a> </li>
-<li> <a href=""> </a> </li>
-<li> <a href=""> </a> </li>
-<li> <a href=""> </a> </li>
+  </details>
