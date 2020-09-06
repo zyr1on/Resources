@@ -56,3 +56,38 @@
     <li> <a href=""> </a> </li>
     <li> <a href=""> </a> </li>
  </details>
+ 
+ <details>
+    <summary>Youtube Channels</summary>
+    <li> <a href="https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw">John Hammond </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA">Ippsec </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q">Mehmet D.İnce </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCpoyhjwNIWZmsiKNKpsMAQQ">VbScrub </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ">Hak5 </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw">Naham Sec </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg">GynvaelEN  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ"> Atil Samancioglu  </a> </li>
+    <li> <a href=""> </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">Cyber Mentor </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q">HackerSploit </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCL1Rp1QrhuRhl-sjP5KYwhw">Can Deger </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g"> Null Bytes</a> </li>
+    <li> <a href="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w">LiveOverflow </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCqfqH-wq12WOm4QG4KiRisw"> Stephen Chapman  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"> Fireship  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg"> commaai archive  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCGISJ8ZHkmIv1CaoHovK-Xw">/dev/null </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg"> STÖK  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCDqZyVCTwg9UyRWKgQ7Gizg"> Ceos3c  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA"> Seytonic  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCK1Eb19myZZZp21laMcmoJg"> Gökhan Muharremoğlu  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCWdEtRBNhSKcjIS6xvIws3A"> krypt0mux  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w"> Jake Wright  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCf93fPKwotph47H3_KDcRyg"> Kris Occhipinti  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A"> Murmus CTF  </a> </li>
+    <li> <a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">  PwnFunction </a> </li>
+    <li> <a href=""> </a> </li>
+    <li> <a href=""> </a> </li>
+    
+    
+</details>
