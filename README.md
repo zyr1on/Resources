@@ -1,4 +1,4 @@
-
+# ZYRON
 <details>
     <summary>BugBounty</summary>
     <li> <a href="https://www.hacksplaining.com/lessons">Hacksplaining </a></li>
@@ -46,6 +46,7 @@
     <li> <a href="https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194">Windows Privilege Escalation Scripts & Techniques </a> </li>
     <li> <a href="https://book.hacktricks.xyz/linux-unix/privilege-escalation">Linux Privilege Escalation </a> </li>
     <li> <a href="https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/">Linux Privilege Escalation using Capabilities</a> </li>
+    <li> <a href="https://alpinesecurity.com/blog/empire-a-powershell-post-exploitation-tool/">Empire: A PowerShell Post-Exploitation Tool</a></li>
 </details>
 
 <details>
@@ -62,6 +63,17 @@
     <li> <a href="https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G">Buffer Overflows Made Easy </a> </li>
     <li> <a href="https://prune2000.github.io/tools/pentest/">Pentesting Tools </a></li>
     <li> <a href="https://www.reddit.com/r/trsec/">Reddit TRsec </a></li> 
+    <li> <a href="https://www.kitploit.com/">KitPloit </a></li>
+    <li> <a href="https://pentestlab.blog/">PentestLab Blog </a></li>
+    <li> <a href="https://blog.drhack.net/category/hacking/">Drhack Blog </a></li>
+    <li> <a href="https://securiteam.com/">SecuriTeam><a/></li>
+    <li> <a href="https://hackingpassion.com/">HakingPassion</a></li>
+    <li> <a href="https://hacksland.net/">HacksLand</a></li>
+    <li> <a href="https://thehackerblog.com/">The Hacker Blog </a></li>
+    <li> <a href="https://ethicalhackingguru.com/">Ethical Hacking Guru </a></li>
+    <li> <a href="http://www.anonhack.in/">AnonHack </a></li>
+    
+    
 </details>
  
  <details>
