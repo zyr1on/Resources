@@ -26,9 +26,6 @@
     <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payload All Things </a> </li>
     <li> <a href="https://web.stanford.edu/class/cs253/">Web Security course by Stanford University </a> </li>
     <li> <a href="https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf">Owasp Testing Guide </a> </li>
-    <li> <a href=""> </a> </li>
-    
-
 </details>
 
 <details>
@@ -60,6 +57,7 @@
     <li> <a href="https://pentester.land/">Pentester Land </a> </li>
     <li> <a href="https://www.hackingarticles.in/">Hacking Articles </a> </li>
     <li> <a href="https://www.wonderhowto.com/">Null Byte Blog </a> </li>
+    <li> <a href="https://hackersploit.org/">Hackersploit Blog </a> </li>
     <li> <a href="https://beginners.re/">Reverse engineering for beginners </a> </li>
     <li> <a href="https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G">Buffer Overflows Made Easy </a> </li>
     <li> <a href="https://prune2000.github.io/tools/pentest/">Pentesting Tools </a></li>
@@ -73,8 +71,6 @@
     <li> <a href="https://thehackerblog.com/">The Hacker Blog </a></li>
     <li> <a href="https://ethicalhackingguru.com/">Ethical Hacking Guru </a></li>
     <li> <a href="http://www.anonhack.in/">AnonHack </a></li>
-    
-    
 </details>
  
  <details>
