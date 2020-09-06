@@ -110,24 +110,19 @@
 
  <details>
     <summary>CTF<summary>
-        <li><a href="https://tryhackme.com/">Tryhackme</a></li>
-        <li><a href="https://www.hackthebox.eu/home">Hackthebox</a></li>
-        <li><a href="https://ctflearn.com/">Ctflearn </a></li>
-        <li><a href="https://crackmes.one/"> Crackmes </a></li>
-        <li><a href="https://www.vulnhub.com/"> Vulnhub </a></li>
-        <li><a href="https://overthewire.org/wargames/"> Overthewhire </li>
-        <li><a href="http://pwnable.kr/#"> Pwnable </a></li>
-        <li><a href="https://www.root-me.org/?lang=en"> Root-me </a></li>
-        <li><a href="https://www.enigmagroup.org/"> Enigma Group </a></li>
-        <li><a href="https://ringzer0ctf.com/home"> RingZer0 </a></li>
-        <li><a href="https://picoctf.com/"> PicoCtf </a></li>
-        <li><a href="https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/"> practice-hacking-with-vulnerable-systems </a></li>
-        <li><a href="https://captf.com/practice-ctf/"> CapCtf </a></li>
-        <li><a href="https://fareedfauzi.github.io/ctfonline/"> Online CTF Websites</a></li>
-        <li><a href="https://fareedfauzi.gitbook.io/practice-ctf-list/">Practice CTF List </a></li>
-        <li><a href=""> </a></li>
-        <li><a href=""> </a></li>
-        <li><a href=""> </a></li>
-        <li><a href=""> </a></li>
-        <li><a href=""> </a></li>
+    <li><a href="https://tryhackme.com/">Tryhackme</a></li>
+    <li><a href="https://www.hackthebox.eu/home">Hackthebox</a></li>
+    <li><a href="https://ctflearn.com/">Ctflearn </a></li>
+    <li><a href="https://crackmes.one/"> Crackmes </a></li>
+    <li><a href="https://www.vulnhub.com/"> Vulnhub </a></li>
+    <li><a href="https://overthewire.org/wargames/"> Overthewhire </li>
+    <li><a href="http://pwnable.kr/#"> Pwnable </a></li>
+    <li><a href="https://www.root-me.org/?lang=en"> Root-me </a></li>
+    <li><a href="https://www.enigmagroup.org/"> Enigma Group </a></li>
+    <li><a href="https://ringzer0ctf.com/home"> RingZer0 </a></li>
+    <li><a href="https://picoctf.com/"> PicoCtf </a></li>
+    <li><a href="https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/"> practice-hacking-with-vulnerable-systems </a></li>
+    <li><a href="https://captf.com/practice-ctf/"> CapCtf </a></li>
+    <li><a href="https://fareedfauzi.github.io/ctfonline/"> Online CTF Websites</a></li>
+    <li><a href="https://fareedfauzi.gitbook.io/practice-ctf-list/">Practice CTF List </a></li>
 </details>
