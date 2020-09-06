@@ -19,6 +19,7 @@
     <li> <a href="https://portswigger.net/daily-swig/prototype-pollution-the-dangerous-and-underrated-vulnerability-impacting-javascript-applications">PortSwigger      Prototype Pollution </a> </li>
     <li> <a href="https://gracefulsecurity.com/command-injection-the-good-the-bad-and-the-blind/">Command-injection-the-good-the-bad-and-the-blind </a> </li>
     <li> <a href="https://blog.0daylabs.com/2019/02/15/prototype-pollution-javascript/">Analysis and Exploitation of Prototype Pollution attacks </a> </li>
+    <li> <a href="http://www.securityidiots.com/Web-Pentest">Security Idiots</a></li>
     <li> <a href="https://help.semmle.com/wiki/display/JS/JavaScript+queries">JavaScript queries </a> </li>
     <li> <a href="https://vulp3cula.gitbook.io/hackers-grimoire/">Hacker's Grimoire </a> </li>
     <li> <a href="https://github.com/jhaddix/tbhm">The Bug Hunter's Methodology (TBHM) </a> </li>
@@ -58,6 +59,7 @@
     <li> <a href="https://www.hackingarticles.in/">Hacking Articles </a> </li>
     <li> <a href="https://www.wonderhowto.com/">Null Byte Blog </a> </li>
     <li> <a href="https://hackersploit.org/">Hackersploit Blog </a> </li>
+    <li> <a href="https://guyinatuxedo.github.io/index.html">NightMare </a></li>
     <li> <a href="https://beginners.re/">Reverse engineering for beginners </a> </li>
     <li> <a href="https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G">Buffer Overflows Made Easy </a> </li>
     <li> <a href="https://prune2000.github.io/tools/pentest/">Pentesting Tools </a></li>
@@ -105,3 +107,27 @@
     <li> <a href="https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw">HakcerOne<a/></li>
     <li> <a href="https://www.youtube.com/user/Computerphile">Computerphile</a></li>
 </details>
+
+ <details>
+    <summary>CTF<summary>
+        <li><a href="https://tryhackme.com/">Tryhackme</a></li>
+        <li><a href="https://www.hackthebox.eu/home">Hackthebox</a></li>
+        <li><a href="https://ctflearn.com/">Ctflearn </a></li>
+        <li><a href="https://crackmes.one/"> Crackmes </a></li>
+        <li><a href="https://www.vulnhub.com/"> Vulnhub </a></li>
+        <li><a href="https://overthewire.org/wargames/"> Overthewhire </li>
+        <li><a href="http://pwnable.kr/#"> Pwnable </a></li>
+        <li><a href="https://www.root-me.org/?lang=en"> Root-me </a></li>
+        <li><a href="https://www.enigmagroup.org/"> Enigma Group </a></li>
+        <li><a href="https://ringzer0ctf.com/home"> RingZer0 </a></li>
+        <li><a href="https://picoctf.com/"> PicoCtf </a></li>
+        <li><a href="https://www.sjoerdlangkemper.nl/2018/12/19/practice-hacking-with-vulnerable-systems/"> practice-hacking-with-vulnerable-systems </a></li>
+        <li><a href="https://captf.com/practice-ctf/"> CapCtf </a></li>
+        <li><a href="https://fareedfauzi.github.io/ctfonline/"> Online CTF Websites</a></li>
+        <li><a href="https://fareedfauzi.gitbook.io/practice-ctf-list/">Practice CTF List </a></li>
+        <li><a href=""> </a></li>
+        <li><a href=""> </a></li>
+        <li><a href=""> </a></li>
+        <li><a href=""> </a></li>
+        <li><a href=""> </a></li>
+        
