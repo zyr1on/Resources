@@ -126,3 +126,8 @@
    <li><a href="https://fareedfauzi.github.io/ctfonline/"> Online CTF Websites</a></li>
    <li><a href="https://fareedfauzi.gitbook.io/practice-ctf-list/">Practice CTF List </a></li>
 </details>
+<details>
+   <summary>Insecure Systems to Pratice</summary>
+    <li><a href=""> </a></li>
+</details>
+
