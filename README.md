@@ -41,7 +41,19 @@
     <li> <a href="https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194">Windows Privilege Escalation Scripts & Techniques </a> </li>
     <li> <a href="https://book.hacktricks.xyz/linux-unix/privilege-escalation">Linux Privilege Escalation </a> </li>
     <li> <a href="https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/">Linux Privilege Escalation using Capabilities</a> </li>
+</details>
+
+<details>
+    <summary>Some Good Rescoures</summary>
+    <li> <a href="https://book.hacktricks.xyz/">HackTricks </a> </li>
+    <li> <a href="https://incognitjoe.github.io/">IncognitJoe  </a> </li>
+    <li> <a href="https://highon.coffee/">Penetration Testing && Security Research Blog </a> </li>
+    <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
+    <li> <a href="https://0xsp.com/">0xsp</a> </li>
+    <li> <a href="https://resources.infosecinstitute.com/">InfoSec Resources </a> </li>
+    <li> <a href="https://pentester.land/">Pentester Land </a> </li>
+    <li> <a href="https://www.hackingarticles.in/">Hacking Articles </a> </li>
+    <li> <a href=""> </a> </li>
     <li> <a href=""> </a> </li>
     
-
-</details>
+    
