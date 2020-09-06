@@ -1,5 +1,6 @@
 # Bugbounty
-
+<details>
+  <sumarray>BugBounty</sumarray>
 <li> <a href="https://www.hacksplaining.com/lessons">Hacksplaining </a></li>
 <li> <a href="https://pwning.owasp-juice.shop/">Pwning OWASP Juice Shop</a> </li>
 <li> <a href="https://www.bugcrowd.com/hackers/bugcrowd-university/">Bugcrowd University </a> </li>
@@ -23,7 +24,7 @@
 <li> <a href="https://github.com/jhaddix/tbhm">The Bug Hunter's Methodology (TBHM) </a> </li>
 <li> <a href="https://defendtheweb.net/">Defend The Web </a> </li>
 <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payload All Things </a> </li>
-
+</details>
 # PrivEsc
 <details>
   <summary> Web Siteleri</summary>
