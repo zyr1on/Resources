@@ -25,7 +25,7 @@
     <li> <a href="https://defendtheweb.net/">Defend The Web </a> </li>
     <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payload All Things </a> </li>
 </details>
-
+<hr>
 <details>
   <summary>Priv Escalate</summary>
     <li> <a href="https://www.hackingarticles.in/category/privilege-escalation/">Privilege Escalation Archives - Hacking Articles </a> </li>
@@ -42,10 +42,10 @@
     <li> <a href="https://book.hacktricks.xyz/linux-unix/privilege-escalation">Linux Privilege Escalation </a> </li>
     <li> <a href="https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/">Linux Privilege Escalation using Capabilities</a> </li>
 </details>
-
+<hr>
 <details>
     <summary>Some Good Rescoures</summary>
-    <li> <a href="https://book.hacktricks.xyz/">        HackTricks </a> </li>
+    <li> <a href="https://book.hacktricks.xyz/">HackTricks </a> </li>
     <li> <a href="https://incognitjoe.github.io/">IncognitJoe  </a> </li>
     <li> <a href="https://highon.coffee/">Penetration Testing && Security Research Blog </a> </li>
     <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
