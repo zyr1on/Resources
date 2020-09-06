@@ -24,8 +24,13 @@
     <li> <a href="https://github.com/jhaddix/tbhm">The Bug Hunter's Methodology (TBHM) </a> </li>
     <li> <a href="https://defendtheweb.net/">Defend The Web </a> </li>
     <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payload All Things </a> </li>
+    <li> <a href="https://web.stanford.edu/class/cs253/">Web Security course by Stanford University </a> </li>
+    <li> <a href="https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf">Owasp Testing Guide </a> </li>
+    <li> <a href=""> </a> </li>
+    
+
 </details>
-<hr>
+
 <details>
   <summary>Priv Escalate</summary>
     <li> <a href="https://www.hackingarticles.in/category/privilege-escalation/">Privilege Escalation Archives - Hacking Articles </a> </li>
@@ -42,7 +47,7 @@
     <li> <a href="https://book.hacktricks.xyz/linux-unix/privilege-escalation">Linux Privilege Escalation </a> </li>
     <li> <a href="https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/">Linux Privilege Escalation using Capabilities</a> </li>
 </details>
-<hr>
+
 <details>
     <summary>Some Good Rescoures</summary>
     <li> <a href="https://book.hacktricks.xyz/">HackTricks </a> </li>
@@ -53,9 +58,11 @@
     <li> <a href="https://resources.infosecinstitute.com/">InfoSec Resources </a> </li>
     <li> <a href="https://pentester.land/">Pentester Land </a> </li>
     <li> <a href="https://www.hackingarticles.in/">Hacking Articles </a> </li>
-    <li> <a href=""> </a> </li>
-    <li> <a href=""> </a> </li>
- </details>
+    <li> <a href="https://beginners.re/">Reverse engineering for beginners </a> </li>
+    <li> <a href="https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G">Buffer Overflows Made Easy </a> </li>
+    <li> <a href="https://prune2000.github.io/tools/pentest/">Pentesting Tools </a></li>
+    <li> <a href="https://www.reddit.com/r/trsec/">Reddit TRsec </a></li> 
+</details>
  
  <details>
     <summary>Youtube Channels</summary>
@@ -67,7 +74,6 @@
     <li> <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw">Naham Sec </a> </li>
     <li> <a href="https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg">GynvaelEN  </a> </li>
     <li> <a href="https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ"> Atil Samancioglu  </a> </li>
-    <li> <a href=""> </a> </li>
     <li> <a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">Cyber Mentor </a> </li>
     <li> <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q">HackerSploit </a> </li>
     <li> <a href="https://www.youtube.com/channel/UCL1Rp1QrhuRhl-sjP5KYwhw">Can Deger </a> </li>
@@ -85,9 +91,8 @@
     <li> <a href="https://www.youtube.com/channel/UCc1Pn7FxieMohCZFPYEbs7w"> Jake Wright  </a> </li>
     <li> <a href="https://www.youtube.com/channel/UCf93fPKwotph47H3_KDcRyg"> Kris Occhipinti  </a> </li>
     <li> <a href="https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A"> Murmus CTF  </a> </li>
-    <li> <a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">  PwnFunction </a> </li>
-    <li> <a href=""> </a> </li>
-    <li> <a href=""> </a> </li>
-    
-    
+    <li> <a href="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A">  PwnFunction </a> </li>    
+    <li> <a href="https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww?pbjreload=101">BugCrowd</a></li>
+    <li> <a href="https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw">HakcerOne<a/></li>
+    <li> <a href="https://www.youtube.com/user/Computerphile">Computerphile</a></li>
 </details>
