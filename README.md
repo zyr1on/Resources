@@ -28,8 +28,20 @@
 
 <details>
   <summary>Priv Escalate</summary>
-  <li> <a href="https://www.hackingarticles.in/category/privilege-escalation/">Privilege Escalation Archives - Hacking Articles </a> </li>
-  <li> <a href="https://payatu.com/guide-linux-privilege-escalation">A guide to Linux Privilege Escalation </a> </li>
-  <li> <a href="https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html">Privilege Escalation </a> </li>
+    <li> <a href="https://www.hackingarticles.in/category/privilege-escalation/">Privilege Escalation Archives - Hacking Articles </a> </li>
+    <li> <a href="https://payatu.com/guide-linux-privilege-escalation">A guide to Linux Privilege Escalation </a> </li>
+    <li> <a href="https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html">Privilege Escalation </a> </li>
+    <li> <a href="https://highon.coffee/blog/linux-commands-cheat-sheet/">Linux Commands Cheat Sheet</a></li>
+    <li> <a href="https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/">Basic Linux Privilege Escalation </a> </li>
+    <li> <a href="https://www.exploit-db.com/docs/42757">Windows & Linux Hak Yükseltme </a> </li>
+    <li> <a href="https://www.mehmetince.net/linux-exploit-suggester-ile-linux-yetki-yukseltme-zafiyeti-tespiti/">Linux Exploit Suggester ile Yetki Yükseltme Zafiyeti Tespiti </a> </li>
+    <li> <a href="https://medium.com/bugbountywriteup/privilege-escalation-in-windows-380bee3a2842">Privilege Escalation in Windows </a> </li>
+    <li> <a href="https://ozdenercin.com/2019/06/28/derinlemesine-windows-privilege-escalation-yetki-yukseltmesi/">Derinlemesine Windows Priv Esc </a> </li>
+    <li> <a href="https://www.fuzzysecurity.com/tutorials/16.html">Windows Privilege Escalation Fundamentals </a> </li>
+    <li> <a href="https://medium.com/@rahmatnurfauzi/windows-privilege-escalation-scripts-techniques-30fa37bd194">Windows Privilege Escalation Scripts & Techniques </a> </li>
+    <li> <a href="https://book.hacktricks.xyz/linux-unix/privilege-escalation">Linux Privilege Escalation </a> </li>
+    <li> <a href="https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/">Linux Privilege Escalation using Capabilities</a> </li>
+    <li> <a href=""> </a> </li>
+    
 
 </details>
