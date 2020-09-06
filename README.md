@@ -59,6 +59,7 @@
     <li> <a href="https://resources.infosecinstitute.com/">InfoSec Resources </a> </li>
     <li> <a href="https://pentester.land/">Pentester Land </a> </li>
     <li> <a href="https://www.hackingarticles.in/">Hacking Articles </a> </li>
+    <li> <a href="https://www.wonderhowto.com/">Null Byte Blog </a> </li>
     <li> <a href="https://beginners.re/">Reverse engineering for beginners </a> </li>
     <li> <a href="https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G">Buffer Overflows Made Easy </a> </li>
     <li> <a href="https://prune2000.github.io/tools/pentest/">Pentesting Tools </a></li>
