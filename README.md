@@ -45,7 +45,7 @@
 
 <details>
     <summary>Some Good Rescoures</summary>
-    <b><li> <a href="https://book.hacktricks.xyz/">HackTricks </a> </li></b>
+    <li> <a href="https://book.hacktricks.xyz/">        HackTricks </a> </li>
     <li> <a href="https://incognitjoe.github.io/">IncognitJoe  </a> </li>
     <li> <a href="https://highon.coffee/">Penetration Testing && Security Research Blog </a> </li>
     <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
