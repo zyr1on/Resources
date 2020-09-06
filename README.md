@@ -1,5 +1,6 @@
+
 <details>
-    <sumarray>BugBounty</sumarray>
+    <summary>BugBounty</summary>
     <li> <a href="https://www.hacksplaining.com/lessons">Hacksplaining </a></li>
     <li> <a href="https://pwning.owasp-juice.shop/">Pwning OWASP Juice Shop</a> </li>
     <li> <a href="https://www.bugcrowd.com/hackers/bugcrowd-university/">Bugcrowd University </a> </li>
