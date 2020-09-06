@@ -16,7 +16,7 @@
 <li> <a href="https://www.acunetix.com/blog/articles/">Acunetix Articles </a> </li>
 <li> <a href="https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/">Acunetix|What is SSRF? </a> </li>
 <li> <a href="https://portswigger.net/daily-swig/prototype-pollution-the-dangerous-and-underrated-vulnerability-impacting-javascript-applications">PortSwigger Prototype Pollution </a> </li>
-<li> <a href="https://gracefulsecurity.com/command-injection-the-good-the-bad-and-the-blind/">https://gracefulsecurity.com/command-injection-the-good-the-bad-and-the-blind/ </a> </li>
+<li> <a href="https://gracefulsecurity.com/command-injection-the-good-the-bad-and-the-blind/">Command-injection-the-good-the-bad-and-the-blind </a> </li>
 <li> <a href="https://blog.0daylabs.com/2019/02/15/prototype-pollution-javascript/">Analysis and Exploitation of Prototype Pollution attacks </a> </li>
 <li> <a href="https://help.semmle.com/wiki/display/JS/JavaScript+queries">JavaScript queries </a> </li>
 <li> <a href="https://vulp3cula.gitbook.io/hackers-grimoire/">Hacker's Grimoire </a> </li>
