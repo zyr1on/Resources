@@ -128,7 +128,7 @@
    <li><a href="https://fareedfauzi.gitbook.io/practice-ctf-list/">Practice CTF List </a></li>
 </details>
 <details>
-   <summary>Insecure Systems to Pratice</summary>
+   <summary>Insecure Systems to Pratice</summary (BugBounty)>
     <li><a href="https://github.com/digininja/DVWA">DAMN VULNERABLE WEB APPLICATION </a></li>
     <li><a href="https://github.com/OWASP/NodeGoat"> Owasp Node Goat</a></li>
     <li><a href="https://github.com/WebGoat/WebGoat"> WebGoat 8: A deliberately insecure Web Application</a></li>
