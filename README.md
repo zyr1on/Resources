@@ -22,6 +22,7 @@
     <li> <a href="http://www.securityidiots.com/Web-Pentest">Security Idiots</a></li>
     <li> <a href="https://help.semmle.com/wiki/display/JS/JavaScript+queries">JavaScript queries </a> </li>
     <li> <a href="https://vulp3cula.gitbook.io/hackers-grimoire/">Hacker's Grimoire </a> </li>
+    <li> <a href="https://github.com/reddelexc/hackerone-reports"> Bug Bounty Reports </a></li>
     <li> <a href="https://github.com/jhaddix/tbhm">The Bug Hunter's Methodology (TBHM) </a> </li>
     <li> <a href="https://defendtheweb.net/">Defend The Web </a> </li>
     <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payload All Things </a> </li>
@@ -56,11 +57,15 @@
     <li> <a href="https://medium.com/bugbountywriteup/tagged/bug-bounty">Info Sec Write Ups </a> </li>
     <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
     <li> <a href="https://0xsp.com/">0xsp</a> </li>
+    <li> <a href="https://www.tutorialspoint.com/penetration_testing/index.htm">Penetration Testing </a></li>
     <li> <a href="https://resources.infosecinstitute.com/">InfoSec Resources </a> </li>
     <li> <a href="https://pentest.blog/">PentestBlog </a></li>
     <li> <a href="https://pentester.land/">Pentester Land </a> </li>
     <li> <a href="https://www.hackingarticles.in/">Hacking Articles </a> </li>
+    <li> <a href="https://github.com/carpedm20/awesome-hacking#readme">Awesome Hacking</a></li>
+    <li> <a href="https://github.com/sbilly/awesome-security#readme">Awesome Security </a></li>
     <li> <a href="https://www.wonderhowto.com/">Null Byte Blog </a> </li>
+    <li> <a href="https://www.thecybermentor.com/">The Cyber Mentor Blog </a> </li>
     <li> <a href="https://sushant747.gitbooks.io/total-oscp-guide/content/">Sushant Total OSCP</a></li>
     <li> <a href="https://hackersploit.org/">Hackersploit Blog </a> </li>
     <li> <a href="https://guyinatuxedo.github.io/index.html">NightMare </a></li>
