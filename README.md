@@ -14,6 +14,7 @@
     <li> <a href="https://owasp.org/www-project-top-ten/">Owasp Top10 </a> </li>
     <li> <a href="https://www.exploit-db.com/papers">ExploitDb Papers. </a> </li>
     <li> <a href="https://portswigger.net/research">PortSwigger Research </a> </li>
+    <li> <a href="https://www.netsparker.com.tr/blog/">Netsparker BLog </a></li>
     <li> <a href="https://portswigger.net/daily-swig">PortSwigger Daily-Swig </a> </li>
     <li> <a href="https://www.acunetix.com/blog/articles/">Acunetix Articles </a> </li>
     <li> <a href="https://www.acunetix.com/blog/articles/server-side-request-forgery-vulnerability/">Acunetix|What is SSRF? </a> </li>
