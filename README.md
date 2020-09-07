@@ -1,7 +1,7 @@
 # ZYRON
 <details>
     <summary>BugBounty</summary>
-    <li> <a href="https://www.hacksplaining.com/lessons">Hacksplaining </a></li>
+    <li> <a href="https://www.hacksplaining.com/lessons"><p> </p>Hacksplaining</a></li>
     <li> <a href="https://pwning.owasp-juice.shop/">Pwning OWASP Juice Shop</a> </li>
     <li> <a href="https://www.bugcrowd.com/hackers/bugcrowd-university/">Bugcrowd University </a> </li>
     <li> <a href="https://application.security/free-application-security-training">Free-application-security-training </a> </li>
