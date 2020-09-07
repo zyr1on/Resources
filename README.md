@@ -29,6 +29,8 @@
     <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payload All Things </a> </li>
     <li> <a href="https://web.stanford.edu/class/cs253/">Web Security course by Stanford University </a> </li>
     <li> <a href="https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf">Owasp Testing Guide </a> </li>
+    <li> <a href="https://gowsundar.gitbook.io/book-of-bugbounty-tips/">Collection of "BugBounty" Tips tweeted </a> </li>
+    <li> <a href="https://github.com/jandersoncampelo/InfosecBookmarks">InfosecBookmarks</a> </li>
 </details>
 
 <details>
