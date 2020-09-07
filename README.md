@@ -69,6 +69,7 @@
     <li> <a href="https://www.thecybermentor.com/">The Cyber Mentor Blog </a> </li>
     <li> <a href="https://sushant747.gitbooks.io/total-oscp-guide/content/">Sushant Total OSCP</a></li>
     <li> <a href="https://hackersploit.org/">Hackersploit Blog </a> </li>
+    <li> <a href="https://www.hackerrank.com/">HackerRank </a></li>
     <li> <a href="https://guyinatuxedo.github.io/index.html">NightMare </a></li>
     <li> <a href="https://beginners.re/">Reverse engineering for beginners </a> </li>
     <li> <a href="https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G">Buffer Overflows Made Easy </a> </li>
