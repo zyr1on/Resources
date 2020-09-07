@@ -96,6 +96,7 @@
     <li> <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw">Naham Sec </a> </li>
     <li> <a href="https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg">GynvaelEN  </a> </li>
     <li> <a href="https://www.youtube.com/c/LoiLiangYang"> Loi Liang Yang </a></li>
+    <li> <a href="https://www.youtube.com/channel/UCsA9BVmiT0sG4d6cwBzpM6Q/">Weastie</a></li>
     <li> <a href="https://www.youtube.com/channel/UCnmAu7FF7LeoyTozrMVtTxQ"> Atil Samancioglu  </a> </li>
     <li> <a href="https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw">Cyber Mentor </a> </li>
     <li> <a href="https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q">HackerSploit </a> </li>
