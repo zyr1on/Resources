@@ -73,6 +73,7 @@
     <li> <a href="https://thehackerblog.com/">The Hacker Blog </a></li>
     <li> <a href="https://ethicalhackingguru.com/">Ethical Hacking Guru </a></li>
     <li> <a href="http://www.anonhack.in/">AnonHack </a></li>
+    <li> <a href="https://linux-dersleri.github.io/">Linux Dersleri </a></li>
 </details>
  
  <details>
@@ -128,6 +129,15 @@
 </details>
 <details>
    <summary>Insecure Systems to Pratice</summary>
-    <li><a href=""> </a></li>
+    <li><a href="https://github.com/digininja/DVWA">DAMN VULNERABLE WEB APPLICATION </a></li>
+    <li><a href="https://github.com/OWASP/NodeGoat"> Owasp Node Goat</a></li>
+    <li><a href="https://github.com/WebGoat/WebGoat"> WebGoat 8: A deliberately insecure Web Application</a></li>
+    <li><a href="https://github.com/webpwnized/mutillidae"> OWASP Mutillidae II</a></li>
+    <li><a href="https://github.com/s4n7h0/xvwa"> XVWA is a badly coded web application written in PHP/MySQL</a></li>
+    <li><a href="https://github.com/bkimminich/juice-shop"> Owasp Juice Shop</a></li>
+    <li><a href="https://www.vulnerablewebapps.org/"> List Of Vulnerable Web Apps</a></li>
+    <li><a href="https://sechow.com/bricks/"> Owasp Bricks</a></li>
+    <li><a href="https://github.com/cr0hn/vulnerable-node"> Vulnerable-Node</a></li>
+    <li><a href="https://github.com/appsecco/dvna"> Damn Vulnerable NodeJS Application (DVNA)</a></li>
 </details>
 
