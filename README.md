@@ -26,6 +26,8 @@
     <li> <a href="https://github.com/reddelexc/hackerone-reports"> Bug Bounty Reports </a></li>
     <li> <a href="https://github.com/jhaddix/tbhm">The Bug Hunter's Methodology (TBHM) </a> </li>
     <li> <a href="https://defendtheweb.net/">Defend The Web </a> </li>
+    <li> <a href="https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html">Bug Bounty Cheatsheet m0chan</a></li>
+    <li> <a href="https://medium.com/bugbountyhunting/bug-bounty-toolkit-aa36f4365f3f">Bug bounty platforms and programs</a> </li>
     <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings">Payload All Things </a> </li>
     <li> <a href="https://web.stanford.edu/class/cs253/">Web Security course by Stanford University </a> </li>
     <li> <a href="https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf">Owasp Testing Guide </a> </li>
@@ -87,6 +89,8 @@
     <li> <a href="https://ethicalhackingguru.com/">Ethical Hacking Guru </a></li>
     <li> <a href="http://www.anonhack.in/">AnonHack </a></li>
     <li> <a href="https://linux-dersleri.github.io/">Linux Dersleri </a></li>
+    <li> <a href="https://m0chan.github.io/">m0chan Blog</a> </li>
+
 </details>
  
  <details>
