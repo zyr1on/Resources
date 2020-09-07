@@ -181,5 +181,6 @@
     <li> Exploit Geliştirme 101</li>
     <li>  Python - Mustafa Başer </li>
     <li> Uygulamalı Siber Güvenlik ve Hacking </li>
+    <li>Web Hacking 101</li>
 </details>
 
