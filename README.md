@@ -169,5 +169,7 @@
     <li>Ethical Hacking Offensive ve Defensive </li>
     <li>Web Uygulama Güvenliği ve Hacking Yöntemleri </li>
     <li> Exploit Geliştirme 101</li>
+    <li>  Python - Mustafa Başer </li>
+    <li> Uygulamalı Siber Güvenlik ve Hacking </li>
 </details>
 
