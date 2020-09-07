@@ -9,6 +9,7 @@
     <li> <a href="https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters">Resources-for-Beginner-Bug-Bounty-Hunters </a> </li>
     <li> <a href="https://github.com/qazbnm456/awesome-web-security#readme">Awesome Web Security </a> </li>
     <li> <a href="https://medium.com/bugbountywriteup/tagged/bug-bounty">Info Sec Write Ups </a> </li>
+    <li> <a href="https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&pbjreload=101">Mehmet İnce Web Security & Hacking </a></li> 
     <li> <a href="https://www.hacker101.com/resources#2">Hacker101 Resources</a> </li>
     <li> <a href="https://owasp.org/www-project-top-ten/">Owasp Top10 </a> </li>
     <li> <a href="https://www.exploit-db.com/papers">ExploitDb Papers. </a> </li>
