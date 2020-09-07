@@ -53,6 +53,7 @@
     <li> <a href="https://book.hacktricks.xyz/">HackTricks </a> </li>
     <li> <a href="https://incognitjoe.github.io/">IncognitJoe  </a> </li>
     <li> <a href="https://highon.coffee/">Penetration Testing && Security Research Blog </a> </li>
+    <li> <a href="https://medium.com/bugbountywriteup/tagged/bug-bounty">Info Sec Write Ups </a> </li>
     <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
     <li> <a href="https://0xsp.com/">0xsp</a> </li>
     <li> <a href="https://resources.infosecinstitute.com/">InfoSec Resources </a> </li>
