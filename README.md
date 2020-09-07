@@ -45,6 +45,7 @@
     <li> <a href="https://book.hacktricks.xyz/linux-unix/privilege-escalation">Linux Privilege Escalation </a> </li>
     <li> <a href="https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/">Linux Privilege Escalation using Capabilities</a> </li>
     <li> <a href="https://alpinesecurity.com/blog/empire-a-powershell-post-exploitation-tool/">Empire: A PowerShell Post-Exploitation Tool</a></li>
+    <li> <a href="https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/">Windows Privilege Escalation Methods for Pentesters </a></li>
 </details>
 
 <details>
@@ -55,9 +56,11 @@
     <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
     <li> <a href="https://0xsp.com/">0xsp</a> </li>
     <li> <a href="https://resources.infosecinstitute.com/">InfoSec Resources </a> </li>
+    <li> <a href="https://pentest.blog/">PentestBlog </a></li>
     <li> <a href="https://pentester.land/">Pentester Land </a> </li>
     <li> <a href="https://www.hackingarticles.in/">Hacking Articles </a> </li>
     <li> <a href="https://www.wonderhowto.com/">Null Byte Blog </a> </li>
+    <li> <a href="https://sushant747.gitbooks.io/total-oscp-guide/content/">Sushant Total OSCP</a></li>
     <li> <a href="https://hackersploit.org/">Hackersploit Blog </a> </li>
     <li> <a href="https://guyinatuxedo.github.io/index.html">NightMare </a></li>
     <li> <a href="https://beginners.re/">Reverse engineering for beginners </a> </li>
