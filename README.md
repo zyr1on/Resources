@@ -150,3 +150,24 @@
     <li><a href="https://github.com/appsecco/dvna"> Damn Vulnerable NodeJS Application (DVNA)</a></li>
 </details>
 
+<details>
+    <summary>Books</summary>
+    <li> Real-World Bug Hunting: A Field Guide to Web Hacking </li>
+    <li>Bug Bounty Hunting Essentials </li>
+    <li>The Web Application Hacker's Handbook </li>
+    <li>The Basics of Web Hacking: Tools and Techniques to Attack the Web </li>
+    <li>Penetration Testing: A Hands-on Introduction to Hacking </li>
+    <li> The Hacker Playbook 1,2,3</li>
+    <li>Black Hat Python: Python Programming for Hackers and Pentesters </li>
+    <li>Metasploit: The Penetration Tester's Guide </li>
+    <li>Violent Python: A Cookbook for Hackers </li>
+    <li>Hacking: The Art of Exploitation, 2nd Edition </li>
+    <li>Kali Linux Revealed: Mastering the Penetration Testing Distribution </li>
+    <li>Rtfm: Red Team Field Manual  </li>
+    <li>Social Engineering: The Art of Human Hacking </li>
+    <li>Şifreleme ve Şifre Çözme Yöntemleri </li>
+    <li>Ethical Hacking Offensive ve Defensive </li>
+    <li>Web Uygulama Güvenliği ve Hacking Yöntemleri </li>
+    <li> Exploit Geliştirme 101</li>
+</details>
+
