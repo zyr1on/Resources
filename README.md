@@ -12,6 +12,7 @@
     <li> <a href="https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&pbjreload=101">Mehmet İnce Web Security & Hacking </a></li> 
     <li> <a href="https://www.hacker101.com/resources#2">Hacker101 Resources</a> </li>
     <li> <a href="https://owasp.org/www-project-top-ten/">Owasp Top10 </a> </li>
+     <li> <a href="https://cheatsheetseries.owasp.org/index.html">Owasp Cheatsheet Series </a></li>
     <li> <a href="https://www.exploit-db.com/papers">ExploitDb Papers. </a> </li>
     <li> <a href="https://portswigger.net/research">PortSwigger Research </a> </li>
     <li> <a href="https://www.netsparker.com.tr/blog/">Netsparker BLog </a></li>
@@ -68,6 +69,7 @@
     <li> <a href="https://pentest.blog/">PentestBlog </a></li>
     <li> <a href="https://pentester.land/">Pentester Land </a> </li>
     <li> <a href="https://www.hackingarticles.in/">Hacking Articles </a> </li>
+    <li> <a href="https://gracefulsecurity.com/">Gracefulsecurity </a></li>
     <li> <a href="https://github.com/carpedm20/awesome-hacking#readme">Awesome Hacking</a></li>
     <li> <a href="https://github.com/sbilly/awesome-security#readme">Awesome Security </a></li>
     <li> <a href="https://www.wonderhowto.com/">Null Byte Blog </a> </li>
@@ -183,24 +185,4 @@
     <li>  Python - Mustafa Başer </li>
     <li> Uygulamalı Siber Güvenlik ve Hacking </li>
     <li>Web Hacking 101</li>
-</details>
-
-<details>
-    <summary>Cheatsheet</sumarry>
-    <li> <a href="http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet">ReverseShell Cheatsheet (pentestmonkey) </a></li>
-    <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md">PayloadAllThinfs ReverseShell Cheatsheet </a></li>
-    <li> <a href="https://highon.coffee/blog/reverse-shell-cheat-sheet/">ReverseShell Cheatsheet (Highhoon) </a></li>
-    <li> <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet">PortSwigger XSS Cheatsheet </a></li>
-    <li> <a href="https://cheatsheetseries.owasp.org/index.html">Owasp Cheatsheet Series </a></li>
-    <li> <a href="https://www.stationx.net/nmap-cheat-sheet/">Nmap Cheatsheet (stationx)</a></li>
-    <li> <a href="https://www.tutorialspoint.com/nmap-cheat-sheet">Nmap Cheatsheet (tutorialspoint) </a></li>
-    <li> <a href="https://blog.barradell-johns.com/index.php/2018/12/30/linux-priv-esc-cheat-sheet/">Linux PrivEsc Cheatsheet (bardell-johns) </a></li>
-    <li> <a href="https://cheatography.com/tag/hacking/">13 Hacking Cheatsheets (cheatography) </a></li>
-    <li> <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/">Sql İnject Cheatsheet (netsparker) </a></li>
-    <li> <a href="https://portswigger.net/web-security/sql-injection/cheat-sheet">Sql İnject Cheatsheet (portswigger) </a></li>
-    <li> <a href="https://perspectiverisk.com/mysql-sql-injection-practical-cheat-sheet/">Mysql İnject Cheatsheet (perspectiverisk) </a></li>
-    <li> <a href="https://gracefulsecurity.com/sql-injection-cheat-sheet-mysql/">Sql İnject Cheatsheet (gracefulsecurity) </a></li>
-    <li> <a href=""> </a></li>
-    <li> <a href=""> </a></li>
-    <li> <a href=""> </a></li>
 </details>
