@@ -196,6 +196,11 @@
     <li> <a href="https://www.tutorialspoint.com/nmap-cheat-sheet">Nmap Cheatsheet (tutorialspoint) </a></li>
     <li> <a href="https://blog.barradell-johns.com/index.php/2018/12/30/linux-priv-esc-cheat-sheet/">Linux PrivEsc Cheatsheet (bardell-johns) </a></li>
     <li> <a href="https://cheatography.com/tag/hacking/">13 Hacking Cheatsheets (cheatography) </a></li>
+    <li> <a href="https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/">Sql İnject Cheatsheet (netsparker) </a></li>
+    <li> <a href="https://portswigger.net/web-security/sql-injection/cheat-sheet">Sql İnject Cheatsheet (portswigger) </a></li>
+    <li> <a href="https://perspectiverisk.com/mysql-sql-injection-practical-cheat-sheet/">Mysql İnject Cheatsheet (perspectiverisk) </a></li>
+    <li> <a href="https://gracefulsecurity.com/sql-injection-cheat-sheet-mysql/">Sql İnject Cheatsheet (gracefulsecurity) </a></li>
     <li> <a href=""> </a></li>
     <li> <a href=""> </a></li>
-</details>    
+    <li> <a href=""> </a></li>
+</details>
