@@ -185,3 +185,17 @@
     <li>Web Hacking 101</li>
 </details>
 
+<details>
+    <summary>Cheatsheet</sumarry>
+    <li> <a href="http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet">PentestMonkey ReverseShell Cheatsheet </a></li>
+    <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md">PayloadAllThinfs ReverseShell Cheatsheet </a></li>
+    <li> <a href="https://highon.coffee/blog/reverse-shell-cheat-sheet/">HighHoon ReverseShell Cheatsheet </a></li>
+    <li> <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet">PortSwigger XSS Cheatsheet </a></li>
+    <li> <a href="https://cheatsheetseries.owasp.org/index.html">Owasp Cheatsheet Series </a></li>
+    <li> <a href=""> </a></li>
+    <li> <a href=""> </a></li>
+    <li> <a href=""> </a></li>
+    <li> <a href=""> </a></li>
+    <li> <a href=""> </a></li>
+    <li> <a href=""> </a></li>
+</details>    
