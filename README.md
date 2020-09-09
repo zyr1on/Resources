@@ -187,15 +187,15 @@
 
 <details>
     <summary>Cheatsheet</sumarry>
-    <li> <a href="http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet">PentestMonkey ReverseShell Cheatsheet </a></li>
+    <li> <a href="http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet">ReverseShell Cheatsheet (pentestmonkey) </a></li>
     <li> <a href="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md">PayloadAllThinfs ReverseShell Cheatsheet </a></li>
-    <li> <a href="https://highon.coffee/blog/reverse-shell-cheat-sheet/">HighHoon ReverseShell Cheatsheet </a></li>
+    <li> <a href="https://highon.coffee/blog/reverse-shell-cheat-sheet/">ReverseShell Cheatsheet (Highhoon) </a></li>
     <li> <a href="https://portswigger.net/web-security/cross-site-scripting/cheat-sheet">PortSwigger XSS Cheatsheet </a></li>
     <li> <a href="https://cheatsheetseries.owasp.org/index.html">Owasp Cheatsheet Series </a></li>
-    <li> <a href=""> </a></li>
-    <li> <a href=""> </a></li>
-    <li> <a href=""> </a></li>
-    <li> <a href=""> </a></li>
+    <li> <a href="https://www.stationx.net/nmap-cheat-sheet/">Nmap Cheatsheet (stationx)</a></li>
+    <li> <a href="https://www.tutorialspoint.com/nmap-cheat-sheet">Nmap Cheatsheet (tutorialspoint) </a></li>
+    <li> <a href="https://blog.barradell-johns.com/index.php/2018/12/30/linux-priv-esc-cheat-sheet/">Linux PrivEsc Cheatsheet (bardell-johns) </a></li>
+    <li> <a href="https://cheatography.com/tag/hacking/">13 Hacking Cheatsheets (cheatography) </a></li>
     <li> <a href=""> </a></li>
     <li> <a href=""> </a></li>
 </details>    
