@@ -1,21 +1,22 @@
 # ZYRON
 <details>
     <summary>BugBounty</summary>
-    <li> <a href="https://www.hacksplaining.com/lessons">Hacksplaining</a></li>
+    <li> <a href="https://www.hacksplaining.com/lessons">Hacksplaining*</a></li>
     <li> <a href="https://pwning.owasp-juice.shop/">Pwning OWASP Juice Shop</a> </li>
-    <li> <a href="https://www.bugcrowd.com/hackers/bugcrowd-university/">Bugcrowd University </a> </li>
+    <li> <a href="https://www.bugcrowd.com/hackers/bugcrowd-university/">Bugcrowd University*</a> </li>
     <li> <a href="https://application.security/free-application-security-training">Free-application-security-training </a> </li>
     <li> <a href="https://ckarande.gitbooks.io/owasp-nodegoat-tutorial/content/index.html">OWASP NodeGoat Tutorial </a> </li>
     <li> <a href="https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters">Resources-for-Beginner-Bug-Bounty-Hunters </a> </li>
     <li> <a href="https://github.com/qazbnm456/awesome-web-security#readme">Awesome Web Security </a> </li>
     <li> <a href="https://medium.com/bugbountywriteup/tagged/bug-bounty">Info Sec Write Ups </a> </li>
-    <li> <a href="https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&pbjreload=101">Mehmet İnce Web Security & Hacking </a></li> 
+    <li> <a href="https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&pbjreload=101">Mehmet İnce Web Security & Hacking*</a></li> 
     <li> <a href="https://www.hacker101.com/resources#2">Hacker101 Resources</a> </li>
     <li> <a href="https://owasp.org/www-project-top-ten/">Owasp Top10 </a> </li>
     <li> <a href="https://cheatsheetseries.owasp.org/index.html">Owasp Cheatsheet Series*</a></li>
     <li> <a href="https://portswigger.net/web-security/all-materials">PortSwigger All learning materials* </a></li>
+    <li> <a href="https://portswigger.net/web-security/all-labs">PortSwigger All Learning labs* </a></li> 
     <li> <a href="https://www.exploit-db.com/papers">ExploitDb Papers. </a> </li>
-    <li> <a href="https://portswigger.net/research">PortSwigger Research </a> </li>
+    <li> <a href="https://portswigger.net/research">PortSwigger Research*</a> </li>
     <li> <a href="https://www.netsparker.com.tr/blog/">Netsparker BLog </a></li>
     <li> <a href="https://portswigger.net/daily-swig">PortSwigger Daily-Swig </a> </li>
     <li> <a href="https://www.acunetix.com/blog/articles/">Acunetix Articles </a> </li>
