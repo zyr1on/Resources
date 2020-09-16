@@ -13,11 +13,11 @@
     <li> <a href="https://www.hacker101.com/resources#2">Hacker101 Resources</a> </li>
     <li> <a href="https://owasp.org/www-project-top-ten/">Owasp Top10 </a> </li>
     <li> <a href="https://cheatsheetseries.owasp.org/index.html">Owasp Cheatsheet Series*</a></li>
+    <li> <a href="https://portswigger.net/research">PortSwigger Research*</a> </li>
     <li> <a href="https://portswigger.net/web-security/all-materials">PortSwigger All learning materials* </a></li>
     <li> <a href="https://portswigger.net/web-security/all-labs">PortSwigger All Learning labs* </a></li> 
     <li> <a href="https://portswigger.net/kb/issues">PortSwigger Issues </a></li>
     <li> <a href="https://www.exploit-db.com/papers">ExploitDb Papers. </a> </li>
-    <li> <a href="https://portswigger.net/research">PortSwigger Research*</a> </li>
     <li> <a href="https://www.netsparker.com.tr/blog/">Netsparker BLog </a></li>
     <li> <a href="https://portswigger.net/daily-swig">PortSwigger Daily-Swig </a> </li>
     <li> <a href="https://www.acunetix.com/blog/articles/">Acunetix Articles </a> </li>
