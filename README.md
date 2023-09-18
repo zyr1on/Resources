@@ -1,13 +1,16 @@
 # ZYRON
 <details>
     <summary>BugBounty</summary>
+    <li> <a href="https://github.com/daffainfo/AllAboutBugBounty"> All About Bug Bounty </a> </li>
+    <li> <a href="https://github.com/djadmin/awesome-bug-bounty"> Awesome Bug Bounty </a> </li>
+    <li> <a href="https://github.com/ngalongc/bug-bounty-reference"> Bug Bounty Reference </a> </li>
+    <li> <a href="https://github.com/qazbnm456/awesome-web-security#readme">Awesome Web Security </a> </li>
+    <li> <a href="https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters">Resources-for-Beginner-Bug-Bounty-Hunters </a> </li>
     <li> <a href="https://www.hacksplaining.com/lessons">Hacksplaining*</a></li>
     <li> <a href="https://pwning.owasp-juice.shop/">Pwning OWASP Juice Shop</a> </li>
     <li> <a href="https://www.bugcrowd.com/hackers/bugcrowd-university/">Bugcrowd University*</a> </li>
     <li> <a href="https://application.security/free-application-security-training">Free-application-security-training </a> </li>
     <li> <a href="https://ckarande.gitbooks.io/owasp-nodegoat-tutorial/content/index.html">OWASP NodeGoat Tutorial </a> </li>
-    <li> <a href="https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters">Resources-for-Beginner-Bug-Bounty-Hunters </a> </li>
-    <li> <a href="https://github.com/qazbnm456/awesome-web-security#readme">Awesome Web Security </a> </li>
     <li> <a href="https://medium.com/bugbountywriteup/tagged/bug-bounty">Info Sec Write Ups </a> </li>
     <li> <a href="https://www.youtube.com/playlist?list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT&pbjreload=101">Mehmet İnce Web Security & Hacking*</a></li> 
     <li> <a href="https://www.hacker101.com/resources#2">Hacker101 Resources</a> </li>
@@ -27,7 +30,6 @@
     <li> <a href="https://blog.0daylabs.com/2019/02/15/prototype-pollution-javascript/">Analysis and Exploitation of Prototype Pollution attacks </a> </li>
     <li> <a href="http://www.securityidiots.com/Web-Pentest">Security Idiots</a></li>
     <li> <a href="https://help.semmle.com/wiki/display/JS/JavaScript+queries">JavaScript queries </a> </li>
-    <li> <a href="https://vulp3cula.gitbook.io/hackers-grimoire/">Hacker's Grimoire </a> </li>
     <li> <a href="https://github.com/reddelexc/hackerone-reports"> Bug Bounty Reports </a></li>
     <li> <a href="https://github.com/jhaddix/tbhm">The Bug Hunter's Methodology (TBHM) </a> </li>
     <li> <a href="https://defendtheweb.net/">Defend The Web </a> </li>
@@ -66,6 +68,7 @@
     <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
     <li> <a href="https://0xsp.com/">0xsp</a> </li>
     <li> <a href="https://incognitjoe.github.io/">IncognitJoe  </a> </li>
+    <li> <a href="https://vulp3cula.gitbook.io/hackers-grimoire/">Hacker's Grimoire </a> </li>
     <li> <a href="https://highon.coffee/">Penetration Testing && Security Research Blog </a> </li>
     <li> <a href="https://medium.com/bugbountywriteup/tagged/bug-bounty">Info Sec Write Ups </a> </li>
     <li> <a href="https://www.tutorialspoint.com/penetration_testing/index.htm">Penetration Testing </a></li>
@@ -198,4 +201,6 @@
     <li> <a href="https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html">ASCII, Hex, Binary, Decimal, Base64 converter</li>
     <li> <a href="https://reqbin.com/" > Req Bin</li>
     <li> <a href="https://jwt.io/"> JWT Tokens</li>
-    
+    <li> <a href="https://crackstation.net/">Crack Station</li>
+    <li> <a href="https://pentestmonkey.net/category/cheat-sheet">Pentest Monkey Cheat Sheet</a></li>
+    <li> <a href="https://github.com/Z4nzu/hackingtool"> All In One Hacking Tools </li>
