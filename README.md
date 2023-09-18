@@ -62,11 +62,12 @@
 <details>
     <summary>Some Good Rescoures</summary>
     <li> <a href="https://book.hacktricks.xyz/">HackTricks </a> </li>
+    <li> <a href="https://m0chan.github.io/">m0chan Blog</a> </li>
+    <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
+    <li> <a href="https://0xsp.com/">0xsp</a> </li>
     <li> <a href="https://incognitjoe.github.io/">IncognitJoe  </a> </li>
     <li> <a href="https://highon.coffee/">Penetration Testing && Security Research Blog </a> </li>
     <li> <a href="https://medium.com/bugbountywriteup/tagged/bug-bounty">Info Sec Write Ups </a> </li>
-    <li> <a href="https://blog.g0tmi1k.com/">g0tm1k </a> </li>
-    <li> <a href="https://0xsp.com/">0xsp</a> </li>
     <li> <a href="https://www.tutorialspoint.com/penetration_testing/index.htm">Penetration Testing </a></li>
     <li> <a href="https://resources.infosecinstitute.com/">InfoSec Resources </a> </li>
     <li> <a href="https://pentest.blog/">PentestBlog </a></li>
@@ -95,7 +96,6 @@
     <li> <a href="https://ethicalhackingguru.com/">Ethical Hacking Guru </a></li>
     <li> <a href="http://www.anonhack.in/">AnonHack </a></li>
     <li> <a href="https://linux-dersleri.github.io/">Linux Dersleri </a></li>
-    <li> <a href="https://m0chan.github.io/">m0chan Blog</a> </li>
     <li> <a href="https://vvhack.org/">vvHack</a></li>
 </details>
  
