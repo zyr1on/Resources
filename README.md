@@ -189,3 +189,13 @@
     <li> Uygulamalı Siber Güvenlik ve Hacking </li>
     <li>Web Hacking 101</li>
 </details>
+
+<details>
+    <summary>Tools</summary>
+    <li> <a href="https://gtfobins.github.io"> GTFO bins</li>
+    <li> <a href="https://gchq.github.io/CyberChef/"> CyberChef </li>
+    <li> <a href="https://www.onlinegdb.com/"> GDB online compiler </li>
+    <li> <a href="https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html">ASCII, Hex, Binary, Decimal, Base64 converter</li>
+    <li> <a href="https://reqbin.com/" > Req Bin</li>
+    <li> <a href="https://jwt.io/"> JWT Tokens</li>
+    
