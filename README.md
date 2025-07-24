@@ -139,7 +139,8 @@
 
 <details>
    <summary>CTF</summary>
-   <li><a href="https://tryhackme.com/">Tryhackme</a></li>
+    <li><a href="https://tryhackme.com/">Tryhackme</a></li>
+    <li><a href=" https://vulnyx.com/">Vulnyx</a></li>
    <li><a href="https://www.hackthebox.eu/home">Hackthebox</a></li>
    <li><a href="https://ctflearn.com/">Ctflearn </a></li>
    <li><a href="https://crackmes.one/"> Crackmes </a></li>
